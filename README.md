@@ -11,7 +11,7 @@ Project Structure
 Part 1: Crack Classification
 Model Selection & Development
 Implement a deep learning model (e.g., CNN) for binary classification.
-Achieve a classification accuracy of 96-98% to minimize false positives/negatives.
+Achieve a classification accuracy of 98% to minimize false positives/negatives.
 Explore feature extraction techniques to enhance model performance.
 Data Processing & Loader
 Implement a data loader to preprocess images and feed them into the model.
